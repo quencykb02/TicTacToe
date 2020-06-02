@@ -1,0 +1,19 @@
+h1 {
+    position: relative;
+    left: 5rem;
+}
+.container {
+    width: 18rem;
+   display: flex;
+   flex-wrap: wrap;
+}
+.square {
+    width: 6rem;
+    height: 6rem;
+    background: black;
+    color: white;
+    border: 2px solid white;
+    box-sizing: border-box;
+    font-size: 4rem;
+    text-align: center;
+}
